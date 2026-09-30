@@ -9,6 +9,17 @@ A production-ready, full-stack MLOps web application for real-time dairy herd he
   - **Email / Username**: `tsetsewilfried@gmail.com`
   - **Password**: `edem1234`
 
+## 📸 Application Screenshots
+
+### Predictive Dashboard & Herd Overview
+![Dashboard Overview](frontend/screenshots/dashboard_overview.png)
+
+### Real-Time Health & Sensor Telemetry
+![Health Monitoring](frontend/screenshots/health_monitoring.png)
+
+### Milk Production Yield Trends & Analytics
+![Production Trends](frontend/screenshots/production_trends.png)
+
 ## 📋 Architecture Summary
 
 ```
