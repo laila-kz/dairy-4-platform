@@ -2,6 +2,13 @@
 
 A production-ready, full-stack MLOps web application for real-time dairy herd health monitoring, milk production forecasting, and behavioral analysis.
 
+## 🌐 Live Demo & Access Credentials
+
+- **Live Platform URL**: [https://dairy4-platform.vercel.app/dashboard](https://dairy4-platform.vercel.app/dashboard)
+- **Access Credentials**:
+  - **Email / Username**: `tsetsewilfried@gmail.com`
+  - **Password**: `edem1234`
+
 ## 📋 Architecture Summary
 
 ```
@@ -76,7 +83,7 @@ The frontend will be available at `http://localhost:5173`.
 
 ### Authentication
 - **`POST /api/auth/mock-login`**  
-  Hardcoded credentials: `admin` / `admin`
+  Platform credentials: `marwanezerbaoui@gmail.com` / `marwane1234`
 
 ### Health Predictions
 - **`POST /api/predict/health`**  
@@ -124,7 +131,7 @@ All model artifacts must be placed in `/backend/models/weights/`
 ## 🎨 Frontend Pages
 
 ### 1. Login (`/`)
-- Hardcoded credentials: `admin` / `admin`
+- Demo credentials: `marwanezerbaoui@gmail.com` / `marwane1234`
 - Minimal design, direct navigation to simulator
 
 ### 2. Simulation Control Panel (`/simulate`)
@@ -219,8 +226,8 @@ frontend/
 ## 🧪 Testing the Platform
 
 ### 1. Log in
-- Navigate to `http://localhost:5173`
-- Enter `admin` / `admin`
+- Navigate to [https://dairy4-platform.vercel.app/dashboard](https://dairy4-platform.vercel.app/dashboard) or local frontend (`http://localhost:5173`)
+- Enter `marwanezerbaoui@gmail.com` / `marwane1234`
 
 ### 2. Adjust telemetry
 - Use sliders to simulate cow health metrics
